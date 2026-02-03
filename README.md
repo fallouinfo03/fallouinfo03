@@ -15,7 +15,7 @@ Mon parcours est à la croisée de la **rigueur scientifique**, de la **technolo
 📅 En cours (fin prévu en avril 2026)
 
 **Diplôme de Fin d’Études Secondaire – Sciences Mathématiques**
-📍 Ottawa, Ontario Canada
+📍 Dakar, Sénégal
 📅 2023
 
 ### Cours suivis lors de mon DEC
