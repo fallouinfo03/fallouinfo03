@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Étudiant finissant en **sciences des données appliquées (DEC – Canada)**, passionné par l’analyse de données, la compréhension des phénomènes complexes et la transformation des données en **insights utiles et exploitables**. Je suis actuellement à la recherche de mon **premier emploi (stage ou junior) en tant que Data Analyst**, afin de consolider mes compétences techniques, gagner de l’expérience terrain et continuer à progresser.
+Étudiant finissant en **sciences des données appliquées (DEC – Canada)**, passionné par l’analyse de données, la compréhension des phénomènes complexes et la transformation des données en **insights utiles et exploitables**. Je suis actuellement à la recherche de mon **premier emploi junior en tant que Data Analyst ou Assistant Data**, afin de consolider mes compétences techniques, gagner de l’expérience terrain et continuer à progresser.
 
 Mon parcours est à la croisée de la **rigueur scientifique**, de la **technologie**, et d’une forte **sensibilité humaine** : comprendre les chiffres, oui, mais surtout ce qu’ils racontent sur le monde réel.
 
