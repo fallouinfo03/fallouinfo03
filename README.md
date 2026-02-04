@@ -61,7 +61,7 @@ Mon parcours est à la croisée de la **rigueur scientifique**, de la **technolo
 
 * Formations complémentaires via Udemy et LinkedIn Learning pour approfondir mes connaissances
 
-Objectif : multiplier les **certifications gratuites avec certificat** pour enrichir mon portfolio.
+Objectif : multiplier les **certifications avec certificat** pour enrichir mon portfolio.
 
 ---
 
