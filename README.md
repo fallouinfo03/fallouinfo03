@@ -1,4 +1,4 @@
-# 👋 Bonjour, moi c’est Serigne Fallou Mbacke
+#  Bonjour, moi c’est Serigne Fallou Mbacke
 
 ## À propos de moi
 
